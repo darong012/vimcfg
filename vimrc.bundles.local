@@ -1,0 +1,2 @@
+Bundle 'rstacruz/sparkup', {'rtp': 'vim/'}
+Bundle 'vim-scripts/mru.vim'

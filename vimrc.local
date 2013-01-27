@@ -1,0 +1,5 @@
+set guifont=Consolas:h11
+colorscheme peaksea
+
+UnBundle 'spf13/vim-autoclose'
+UnBundle 'mbbill/undotree'
